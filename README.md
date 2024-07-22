@@ -7,4 +7,6 @@ Two alternative versions of Side-panel.STL "mesh style"
 
 [North pi side panel circle](https://github.com/maxwen/3d-printinig/blob/main/North%20pi%20side%20panel%20circle.stl)
 
-![alt text](https://github.com/maxwen/3d-printinig/blob/main/PXL_20240617_112616534.png)
+<p align="center">
+  <img src="PXL_20240617_112616534.png" width="350" title="hover text">
+</p>
